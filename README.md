@@ -17,6 +17,7 @@
   
 - [**Computer Security Final Paper:** A Deep Dive into DeepFakes: Dangers, Creation, and Protection](https://github.com/madisonsansone/deepfakes-security-paper)
 - [**Info Vis Final Group Project:** Interactive Data Visualization](https://github.com/madisonsansone/interactive-data-visualization-cosi-116a)
+- [**Creative Work Samples**](https://github.com/madisonsansone/artwork)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
