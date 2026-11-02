@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Madison!</h1>
-<h3 align="left">I'm currently a Master's of Computer Science student at Brown University. I recently graduated from Brandeis University where I studied computer science and business. </h3>
+<h3 align="left">I'm currently a Master's of Computer Science student at Brown University, taking coursework across different areas of visual computing. I recently graduated from Brandeis University where I studied computer science and business. </h3>
 
 - 🔭 I’m currently working on **visualizing forest wildfire data**
 
