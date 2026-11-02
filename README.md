@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Madison!</h1>
 <h3 align="left">I'm currently a Master's of Computer Science student at Brown University. I recently graduated from Brandeis University where I studied computer science and business. </h3>
 
-- 🔭 I’m currently working on **building a tableau dashboard**
+- 🔭 I’m currently working on **visualizing forest wildfire data**
 
 - 🌱 I’m currently learning **Maya**
 
-- In my free time, I like to **run, do yoga, bake, and play soccer**
+- In my free time, I like to **run, play soccer, paint, and bake**
 
 - 📫 How to reach me **madisoncsansone@gmail.com**
 
@@ -16,7 +16,7 @@
 - [**HCI Final Group Project:** "Global Path" Figma Mockup](https://github.com/madisonsansone/global-path-figma-mockup-interactions)
   
 - [**Computer Security Final Paper:** A Deep Dive into DeepFakes: Dangers, Creation, and Protection](https://github.com/madisonsansone/deepfakes-security-paper)
-- [**Info Vis Final Group Project:** Interactive Data Visualization](https://github.com/madisonsansone/interactive-data-visualization-cosi-116a)
+- [**Information Visualization Final Group Project:** Interactive Heart Disease Data Visualization](https://github.com/madisonsansone/interactive-data-visualization-cosi-116a)
 - [**Creative Work Samples**](https://github.com/madisonsansone/artwork)
 
 <h3 align="left">Connect with me:</h3>
