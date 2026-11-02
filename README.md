@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Madison!</h1>
-<h3 align="left">I recently graduated from Brandeis University where I studied computer science and business. </h3>
+<h3 align="left">I'm currently a Master's of Computer Science student at Brown University. I recently graduated from Brandeis University where I studied computer science and business. </h3>
 
 - 🔭 I’m currently working on **building a tableau dashboard**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Maya**
 
 - In my free time, I like to **run, do yoga, bake, and play soccer**
 
