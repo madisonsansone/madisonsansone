@@ -12,7 +12,7 @@
 - ⚡ Some things that I like: **The color green, being outside, soccer, coffee, exploring**
 
 <h3 align="left">Recent Projects </h3>
-
+- [**In Progress: Visualization of Wildfire Recovery in California using GEDI and NDVI]([https://github.com/madisonsansone/global-path-figma-mockup-interactions](https://madisonsansone.github.io/csci2370-view2/)
 - [**HCI Final Group Project:** "Global Path" Figma Mockup](https://github.com/madisonsansone/global-path-figma-mockup-interactions)
   
 - [**Computer Security Final Paper:** A Deep Dive into DeepFakes: Dangers, Creation, and Protection](https://github.com/madisonsansone/deepfakes-security-paper)
