@@ -13,7 +13,7 @@
 
 <h3 align="left">Recent Projects </h3>
 
-- [****In Progress: Visualization of Wildfire Recovery in California using GEDI and NDVI**](https://madisonsansone.github.io/csci2370-view2)
+- [**In Progress: Visualization of Wildfire Recovery in California using GEDI and NDVI**](https://madisonsansone.github.io/csci2370-view2)
 
 - [**HCI Final Group Project:** "Global Path" Figma Mockup](https://github.com/madisonsansone/global-path-figma-mockup-interactions)
 
